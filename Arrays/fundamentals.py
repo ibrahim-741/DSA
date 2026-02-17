@@ -137,7 +137,7 @@ class ArrayFundamentals:
     # --------------------------------------------------
     # 6. Uniqueness Check (Brute Force)
     # --------------------------------------------------
-    def is_all_unique(self, arr: list[int]) -> bool:
+    def is_everything_unique(self, arr: list[int]) -> bool:
         """
         Concept: Check if all elements are unique
         Time Complexity: O(n^2)
